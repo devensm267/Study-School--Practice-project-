@@ -2,9 +2,9 @@
 
 Practice Project
 
-Project Title - Studyschool
+This web page is completely developed to practice my front end development skills using html and css.
 
-Project description - It's an project to provide seamless and quality education with affordablity 
+Project Title - Studyschool
 
 Instruction for running code -
 
@@ -16,9 +16,4 @@ Method 1 -
 
 3. Open the "File1.html" file. The main html file should open in browser,if it does not. follow method 2.
 
-4. The code will run in your browser, if it does not, follow approach 2.
-
-Method 2 -
-
-Use the following url for directly running the code as Raw File:-
-
+4. The code will run in your browser.
