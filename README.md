@@ -14,6 +14,6 @@ Method 1 -
 
 2. Have all the files in only one folder.
 
-3. Open the "File1.html" file. The main html file should open in browser,if it does not. follow method 2.
+3. Open the "File1.html" file. The main html file should open in browser.
 
 4. The code will run in your browser.
